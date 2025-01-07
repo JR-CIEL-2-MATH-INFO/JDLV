@@ -1,5 +1,7 @@
 import time
 
+import tkinter as tk
+
 def afficherGrille(grille):
     """
     Affiche une grille de booléens dans une fenêtre Tkinter.
