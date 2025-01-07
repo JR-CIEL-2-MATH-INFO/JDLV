@@ -23,5 +23,5 @@ grille = [
 # Test de la fonction
 # À compléter : choisissez une cellule à tester, par exemple (1, 2)
 # voisins = positionsCasesVoisines(grille, ..., ...)
-# print("Voisins :", voisins)
+print("Voisins :", voisins)
 
