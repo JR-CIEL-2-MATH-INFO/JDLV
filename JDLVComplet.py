@@ -1,5 +1,3 @@
-import time
-
 import tkinter as tk
 
 def afficherGrille(grille):
