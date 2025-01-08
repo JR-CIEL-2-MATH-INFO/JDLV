@@ -22,6 +22,6 @@ grille = [
 
 # Test de la fonction
 # À compléter : choisissez une cellule à tester, par exemple (1, 2)
-# voisins = positionsCasesVoisines(grille, ..., ...)
-print("Voisins :", voisins)
+# nombreDeVivants = nombreVoisinesVivantes(grille, ..., ...)
+print("Nombre de Voisins vivants:", nombreDeVivants)
 
