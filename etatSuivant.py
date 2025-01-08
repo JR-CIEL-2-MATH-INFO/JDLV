@@ -32,5 +32,5 @@ grille = [
 # Test de la fonction
 # À compléter : choisir une cellule pour tester l'état suivant
 # etat_suivant = etatSuivant(grille, ..., ...)
-# print(etat_suivant)
+print(etat_suivant)
 
