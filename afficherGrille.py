@@ -1,12 +1,12 @@
 import tkinter as tk
 grille = [
-    [False, False, False, False, False, False, False],
-    [False, False, False, False,  False, False, False],
-    [False, True,  True,  True,  True,  True,  False],
-    [False, False, False, True,  False, False, False],
-    [False, False, False, False, False, False, False],
-    [False, False, False, False, False, False, False],
-    [False, False, False, False, False, False, False],
+    grille = [
+    [False, False, False, False, False],
+    [False, False, False, False,  False],
+    [False, True,  True,  True,  False],
+    [False, False, True,  False, False],
+    [False, False, False, False, False],
+    [False, False, False, False, False],
 ]
 
 def afficherGrille(grille):
