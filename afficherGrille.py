@@ -1,6 +1,5 @@
 import tkinter as tk
 grille = [
-    grille = [
     [False, False, False, False, False],
     [False, False, False, False,  False],
     [False, True,  True,  True,  False],
